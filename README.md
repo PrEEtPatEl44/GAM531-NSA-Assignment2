@@ -11,6 +11,7 @@
 - Rotation Matrix
 - Translation Matrix
 ## Output
+```
 Identity Matrix= (1, 0, 0, 0)
 (0, 1, 0, 0)
 (0, 0, 1, 0)
@@ -33,3 +34,4 @@ Combined Transformation Matrix= (4, 0, 0, 0)
 (12, -20, 15.999999, 1)
 Original Vector= (1, 6, -9, 0)
 Transformed Vector= (4, -36, -23.999998, -251.99998)
+```
